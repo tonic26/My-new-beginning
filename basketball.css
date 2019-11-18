@@ -1,0 +1,129 @@
+header{
+	background-color: orange;
+	font-size: 2.5cm;
+	font-family: cursive;
+	color: white;
+}
+body{
+	background-color: black;
+}
+h1{
+	font-size: 1cm;
+	font-family: cursive;
+	background-color: orange;
+
+}
+h1:hover{
+	color: white;
+
+}
+h2{
+	font-size: 0.7cm;
+	font-family: cursive;
+	color: white;
+
+}
+h3{
+	font-size: 0.6cm;
+	font-family: cursive;
+	color: white;
+}
+p{
+	font-family: cursive;
+	color: white;
+}
+.James{
+	width: 500px;
+	height: 400px;
+}
+.ball{
+	width: 300px;
+	height: 300px;
+}
+.naismith{
+	width: 300px;
+	height: 500px;
+}
+.college{
+	width: 400px;
+	height: 300px;
+}
+#stupac{
+	font-size: 0.3cm;
+}
+.points{
+	font-size: 0.4cm;
+}
+li{
+	color: white;
+	font-family: cursive;
+
+}
+li:hover{
+	color: orange;
+}
+footer{
+	background-color: orange;
+	color: white;
+	font-family: cursive;
+
+}
+.espn{
+	color: orange;
+}
+.NBA{
+	height: 400px;
+	width: 200px;
+}
+ul{
+	color: white;
+	font-family: cursive;
+}
+#team{
+	font-size: 0.6cm;
+
+}
+.Kareem-Abdul{
+	width: 500px;
+	height: 300px;
+
+}
+a:hover{
+	color: orange;
+
+}
+.curry{
+	height: 400px;
+	width: 400px;
+}
+#logo{
+	background-color: orange;
+}
+#logo:hover{
+	color: black;
+}
+#college{
+	background-color: orange;
+}
+#college:hover{
+	color: black;
+}
+#choose{
+	color: white;
+	font-family: cursive;
+}
+.checkbox{
+	color: white;
+	font-family: cursive;
+}
+label:hover{
+	color: orange;
+
+}
+ul{
+	color: orange;
+}
+.america{
+	height: 300px;
+	width: 600px;
+}
